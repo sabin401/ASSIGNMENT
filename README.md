@@ -1,4 +1,4 @@
- Project Overview\
+ Project Overview
  
 This project is a simple staff requisition management system. It collects staff details, calculates requisition totals, and approves or holds requisitions based on the total cost.
 
